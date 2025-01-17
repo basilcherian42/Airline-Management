@@ -8,7 +8,7 @@ Welcome to the Airline Management Software project! This application is built us
 - **Book Ticket**: Easily book tickets for available flights.
 - **Cancel Ticket**: Cancel previously booked tickets with ease.
 - **Login and Signup**: Secure user authentication to access the system.
-- **Search Flights**: Quickly search for available flights based on departure and destination.
+- **Search Flights**: Quickly search for available flights based on departure, destination and date.
 
 ### For Administrators:
 - **Flight Scheduling**: Manage and schedule flights, including adding or updating flight details.
